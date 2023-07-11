@@ -6,6 +6,10 @@ export default function App() {
     <View>
       <Text>GitHub actions</Text>
       <Text>Hello actions</Text>
+      <Text>Hello actions</Text>
+      <Text>Hello actions</Text>
+      <Text>Hello actions</Text>
+      <Text>Hello actions</Text>
     </View>
   );
 }
