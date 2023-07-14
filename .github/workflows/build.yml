@@ -22,7 +22,7 @@ jobs:
       - name: Set up JDK
         uses: actions/setup-java@v2
         with:
-          java-version: '8'
+          java-version: '11'
       - name: Build Android Release
         run: |
           cd android && ./gradlew assembleRelease
